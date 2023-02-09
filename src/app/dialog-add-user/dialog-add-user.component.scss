@@ -1,0 +1,38 @@
+.container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+
+
+.names{
+    display: flex;
+    gap: 16px;
+}
+
+
+.date{
+    padding: 20px 24px 20px 24px;
+}
+
+
+.mat-mdc-dialog-actions {
+    justify-content: center;
+}
+
+
+.adress{
+    display: flex;
+    gap: 16px;
+}
+
+
+.street-No{
+    width: 100%;
+
+    mat-form-field{
+        width: 100%;
+    }
+}
